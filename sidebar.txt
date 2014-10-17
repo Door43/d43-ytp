@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ytp:home|Door43 (ytp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ytp|d43-ytp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ytp/archive/master.zip|d43-ytp.zip]]
+
+**Recent Changes**
+{{changes>ns = ytp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ytp|Ethnologue data]]
+
